@@ -1,2 +1,2 @@
-console.log('changejs');
-console.log('learning how to creating history');
+console.log('change.js');
+console.log('Learning how to creating history');
